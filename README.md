@@ -2,21 +2,17 @@
 
 ## Discription
 
--Web application that allows the user to access a database of products based upon the product id, the tag id or the category id. The user will be able to add, edit and delete new products to the database with the price & stock listed. The user will be able to add, edit and delete categories and tags to the data base as well.
-
-## Installation
-
--The user will need to run npm i to install the dependencies & run the mysql schema.sql as a source code and select ecommerce_db as the current database. Finally the user needs to run npm run seed to run the seed package and fill the database with the seeded data.
+-A gist tutorial on regular expression functions and how to understand them in your code.
 
 ## Usage
 
-- This app allows the user to dynamically render, create, update and delete a list of products.
+- What us a regular expression?
 
-Video walkthrough of the backend functionality: https://watch.screencastify.com/v/hCaYMdC7kqitFk9Yc8qn
+- Regular expressions are patterns used to match character combinations in strings. The syntax alone allows you to better define these patterns used to match strings, giving you greater control than wildcard matching.
 
 ## Credits
 
--Olivia Hall built the javascript functions, and the database structure.
+-Olivia Hall built the tutorial.
 
 ## License
 
