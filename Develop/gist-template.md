@@ -83,6 +83,14 @@ In regex, the "" character is the expression that denotes a specific character i
 
 \d => matches any digit, \D => matches any non-digit, \f => matches a form feed.
 
+## Sources
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+
+https://www.regular-expressions.info/charclass.html
+
+http://web.mit.edu/gnu/doc/html/regex_3.html
+
 ## Author
 
 Author: Olivia Hall
